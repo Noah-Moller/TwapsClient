@@ -10,7 +10,7 @@ TwapsClient is part of the Twaps ecosystem, which brings web-like dynamics to na
 - Compiling Twaps into dynamic libraries
 - Displaying Twaps in a native macOS interface
 
-## 🧪 Experimental Project
+## Experimental Project
 
 **Note:** This is an experimental project created to explore the concept of dynamic native UI modules. It is not intended for production use at this stage. The code is shared to inspire discussion and collaboration around the idea of bringing web-like dynamics to native app development.
 
